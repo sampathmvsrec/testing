@@ -125,5 +125,23 @@
       "telegramId": "sa",
       "id": 14
     }
+  ],
+  "developers": [
+    {
+      "id": 1,
+      "name": "Temp",
+      "knowntech": "Springboot, Java, Python",
+      "description": "Experienced in backend technologies and can help with server issues.",
+      "phoneno": "1234567890",
+      "telegramId": "@tempuser"
+    },
+    {
+      "id": 2,
+      "name": "Alex",
+      "knowntech": "React, Angular, TypeScript",
+      "description": "Front-end specialist with a focus on React and Angular.",
+      "phoneno": "9876543210",
+      "telegramId": "@alexdev"
+    }
   ]
 }
